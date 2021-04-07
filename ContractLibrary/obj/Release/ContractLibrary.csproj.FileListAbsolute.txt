@@ -1,0 +1,29 @@
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ContractLibrary\bin\Release\ContractLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ContractLibrary\bin\Release\ContractLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ContractLibrary\obj\Release\ContractLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ContractLibrary\obj\Release\ContractLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ContractLibrary\bin\Release\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\ContractLibrary\bin\Release\ContractLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ContractLibrary\obj\Release\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\ContractLibrary\obj\Release\ContractLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ContractLibrary\bin\Release\ContractLibrary.dll
+D:\Drives\Google Drive\ColorMan\ContractLibrary\bin\Release\ContractLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ContractLibrary\obj\Release\ContractLibrary.dll
+D:\Drives\Google Drive\ColorMan\ContractLibrary\obj\Release\ContractLibrary.pdb
+D:\Google Drive\ColorMan\ContractLibrary\bin\Release\ContractLibrary.dll
+D:\Google Drive\ColorMan\ContractLibrary\bin\Release\ContractLibrary.pdb
+D:\Google Drive\ColorMan\ContractLibrary\obj\Release\ContractLibrary.csproj.CoreCompileInputs.cache
+D:\Google Drive\ColorMan\ContractLibrary\obj\Release\ContractLibrary.dll
+D:\Google Drive\ColorMan\ContractLibrary\obj\Release\ContractLibrary.pdb
+D:\Google Drive\ColorMan\ContractLibrary\obj\Release\ContractLibrary.csprojAssemblyReference.cache
+D:\ColorMan-bad\ContractLibrary\bin\Release\ContractLibrary.dll
+D:\ColorMan-bad\ContractLibrary\bin\Release\ContractLibrary.pdb
+D:\ColorMan-bad\ContractLibrary\obj\Release\ContractLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan-bad\ContractLibrary\obj\Release\ContractLibrary.dll
+D:\ColorMan-bad\ContractLibrary\obj\Release\ContractLibrary.pdb
+D:\ColorMan\ContractLibrary\bin\Release\ContractLibrary.dll
+D:\ColorMan\ContractLibrary\bin\Release\ContractLibrary.pdb
+D:\ColorMan\ContractLibrary\obj\Release\ContractLibrary.csprojAssemblyReference.cache
+D:\ColorMan\ContractLibrary\obj\Release\ContractLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan\ContractLibrary\obj\Release\ContractLibrary.dll
+D:\ColorMan\ContractLibrary\obj\Release\ContractLibrary.pdb

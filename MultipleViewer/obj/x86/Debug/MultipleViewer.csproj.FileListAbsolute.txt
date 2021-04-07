@@ -1,0 +1,4 @@
+D:\Visual Studio\Project\ColorMan\MultipleViewer\bin\Debug\MultipleViewer.exe
+D:\Visual Studio\Project\ColorMan\MultipleViewer\bin\Debug\MultipleViewer.pdb
+D:\Visual Studio\Project\ColorMan\MultipleViewer\bin\Debug\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\MultipleViewer\bin\Debug\ExtensionLibrary.pdb

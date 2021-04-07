@@ -1,0 +1,23 @@
+D:\Visual Studio\Project\ColorMan\Converter\bin\Debug\Converter.dll
+D:\Visual Studio\Project\ColorMan\Converter\bin\Debug\Converter.pdb
+D:\Visual Studio\Project\ColorMan\Converter\bin\Debug\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\Converter\bin\Debug\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\ColorMan\Converter\obj\Debug\Converter.dll
+D:\Visual Studio\Project\ColorMan\Converter\obj\Debug\Converter.pdb
+D:\Drives\Google Drive\ColorMan\Converter\bin\Debug\Converter.dll
+D:\Drives\Google Drive\ColorMan\Converter\bin\Debug\Converter.pdb
+D:\Drives\Google Drive\ColorMan\Converter\bin\Debug\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\Converter\bin\Debug\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+D:\Drives\Google Drive\ColorMan\Converter\obj\Debug\Converter.dll
+D:\Drives\Google Drive\ColorMan\Converter\obj\Debug\Converter.pdb
+D:\ColorMan\Converter\bin\Debug\Converter.dll
+D:\ColorMan\Converter\bin\Debug\Converter.pdb
+D:\ColorMan\Converter\bin\Debug\ExtensionLibrary.dll
+D:\ColorMan\Converter\bin\Debug\ExtensionLibrary.pdb
+D:\ColorMan\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+D:\ColorMan\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\ColorMan\Converter\obj\Debug\Converter.csproj.CopyComplete
+D:\ColorMan\Converter\obj\Debug\Converter.dll
+D:\ColorMan\Converter\obj\Debug\Converter.pdb

@@ -1,0 +1,10 @@
+LAB 0b1622
+RGB ff7a21
+RGB ffff40
+RGB 00bf00
+RGB 40ffff
+RGB ef32d6
+RGB f09266
+RGB ff0080
+RGB 5532d6
+RGB ffffff

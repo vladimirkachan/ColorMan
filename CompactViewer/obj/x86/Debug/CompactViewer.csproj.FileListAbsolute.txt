@@ -1,0 +1,14 @@
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\CompactViewer.exe
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\CompactViewer.pdb
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ColorScreenPicker.exe
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ControlsLibrary.dll
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ColorSpaces.dll
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\Converter.dll
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ColorScreenPicker.pdb
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ControlsLibrary.pdb
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ColorSpaces.pdb
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\ContractLibrary.pdb
+D:\Visual Studio\Project\ColorMan\CompactViewer\bin\Debug\Converter.pdb

@@ -1,0 +1,10 @@
+RGB f09266
+RGB ff7a21
+RGB ee164a
+RGB 00bf00
+RGB 40ffff
+RGB eeda4a
+RGB f09266
+RGB ff0080
+RGB 5532d6
+RGB ffffff

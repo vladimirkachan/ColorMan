@@ -1,0 +1,4 @@
+D:\Visual Studio\Project\ColorMan1\ExtensionLibrary\bin\x86\Debug\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan1\ExtensionLibrary\bin\x86\Debug\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan1\ExtensionLibrary\obj\x86\Debug\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan1\ExtensionLibrary\obj\x86\Debug\ExtensionLibrary.pdb

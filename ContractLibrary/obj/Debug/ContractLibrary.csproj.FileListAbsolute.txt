@@ -1,0 +1,14 @@
+D:\Visual Studio\Project\ColorMan\ContractLibrary\bin\Debug\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\ContractLibrary\bin\Debug\ContractLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ContractLibrary\bin\Debug\ContractLibrary.dll
+D:\Drives\Google Drive\ColorMan\ContractLibrary\bin\Debug\ContractLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.dll
+D:\Drives\Google Drive\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.pdb
+D:\ColorMan\ContractLibrary\bin\Debug\ContractLibrary.dll
+D:\ColorMan\ContractLibrary\bin\Debug\ContractLibrary.pdb
+D:\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.csprojAssemblyReference.cache
+D:\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.dll
+D:\ColorMan\ContractLibrary\obj\Debug\ContractLibrary.pdb

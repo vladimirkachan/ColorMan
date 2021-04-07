@@ -1,0 +1,114 @@
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\obj\Release\FormLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.InformationForm.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.Properties.Resources.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.GenerateResource.Cache
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\obj\Release\FormLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\obj\Release\FormLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\FormLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\FormLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ControlsLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ContractLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ColorSpaces.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\Converter.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ControlsLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ContractLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ColorSpaces.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\FormLibrary\bin\Release\Converter.pdb
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\FormLibrary.dll
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\FormLibrary.pdb
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ControlsLibrary.dll
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ColorSpaces.dll
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\Converter.dll
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ControlsLibrary.pdb
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ContractLibrary.pdb
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ColorSpaces.pdb
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\FormLibrary\bin\Release\Converter.pdb
+D:\Visual Studio\Project\ColorMan\FormLibrary\obj\Release\FormLibrary.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.InformationForm.resources
+D:\Visual Studio\Project\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.Properties.Resources.resources
+D:\Visual Studio\Project\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.GenerateResource.Cache
+D:\Visual Studio\Project\ColorMan\FormLibrary\obj\Release\FormLibrary.dll
+D:\Visual Studio\Project\ColorMan\FormLibrary\obj\Release\FormLibrary.pdb
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\FormLibrary.dll
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\FormLibrary.pdb
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ControlsLibrary.dll
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ContractLibrary.dll
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ColorSpaces.dll
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\Converter.dll
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ControlsLibrary.pdb
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ContractLibrary.pdb
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ColorSpaces.pdb
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\FormLibrary\bin\Release\Converter.pdb
+D:\Drives\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.csprojResolveAssemblyReference.cache
+D:\Drives\Google Drive\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.InformationForm.resources
+D:\Drives\Google Drive\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.Properties.Resources.resources
+D:\Drives\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.GenerateResource.Cache
+D:\Drives\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.dll
+D:\Drives\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.pdb
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\FormLibrary.dll
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\FormLibrary.pdb
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ControlsLibrary.dll
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ContractLibrary.dll
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ColorSpaces.dll
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.dll
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\Converter.dll
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ControlsLibrary.pdb
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ContractLibrary.pdb
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ColorSpaces.pdb
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.pdb
+D:\Google Drive\ColorMan\FormLibrary\bin\Release\Converter.pdb
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.csprojAssemblyReference.cache
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.InformationForm.resources
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.Properties.Resources.resources
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.GenerateResource.cache
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.CoreCompileInputs.cache
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.CopyComplete
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.dll
+D:\Google Drive\ColorMan\FormLibrary\obj\Release\FormLibrary.pdb
+D:\ColorMan\FormLibrary\bin\Release\FormLibrary.dll
+D:\ColorMan\FormLibrary\bin\Release\FormLibrary.pdb
+D:\ColorMan\FormLibrary\bin\Release\ControlsLibrary.dll
+D:\ColorMan\FormLibrary\bin\Release\ContractLibrary.dll
+D:\ColorMan\FormLibrary\bin\Release\ColorSpaces.dll
+D:\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.dll
+D:\ColorMan\FormLibrary\bin\Release\Converter.dll
+D:\ColorMan\FormLibrary\bin\Release\ControlsLibrary.pdb
+D:\ColorMan\FormLibrary\bin\Release\ContractLibrary.pdb
+D:\ColorMan\FormLibrary\bin\Release\ColorSpaces.pdb
+D:\ColorMan\FormLibrary\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan\FormLibrary\bin\Release\Converter.pdb
+D:\ColorMan\FormLibrary\obj\Release\FormLibrary.csprojAssemblyReference.cache
+D:\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.InformationForm.resources
+D:\ColorMan\FormLibrary\obj\Release\ColorMan.FormLibrary.Properties.Resources.resources
+D:\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.GenerateResource.cache
+D:\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan\FormLibrary\obj\Release\FormLibrary.csproj.CopyComplete
+D:\ColorMan\FormLibrary\obj\Release\FormLibrary.dll
+D:\ColorMan\FormLibrary\obj\Release\FormLibrary.pdb
+D:\ColorMan-bad\FormLibrary\bin\Release\FormLibrary.dll
+D:\ColorMan-bad\FormLibrary\bin\Release\FormLibrary.pdb
+D:\ColorMan-bad\FormLibrary\bin\Release\ControlsLibrary.dll
+D:\ColorMan-bad\FormLibrary\bin\Release\ContractLibrary.dll
+D:\ColorMan-bad\FormLibrary\bin\Release\ColorSpaces.dll
+D:\ColorMan-bad\FormLibrary\bin\Release\ExtensionLibrary.dll
+D:\ColorMan-bad\FormLibrary\bin\Release\Converter.dll
+D:\ColorMan-bad\FormLibrary\bin\Release\ControlsLibrary.pdb
+D:\ColorMan-bad\FormLibrary\bin\Release\ContractLibrary.pdb
+D:\ColorMan-bad\FormLibrary\bin\Release\ColorSpaces.pdb
+D:\ColorMan-bad\FormLibrary\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan-bad\FormLibrary\bin\Release\Converter.pdb
+D:\ColorMan-bad\FormLibrary\obj\Release\FormLibrary.csprojAssemblyReference.cache
+D:\ColorMan-bad\FormLibrary\obj\Release\ColorMan.FormLibrary.InformationForm.resources
+D:\ColorMan-bad\FormLibrary\obj\Release\ColorMan.FormLibrary.Properties.Resources.resources
+D:\ColorMan-bad\FormLibrary\obj\Release\FormLibrary.csproj.GenerateResource.cache
+D:\ColorMan-bad\FormLibrary\obj\Release\FormLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan-bad\FormLibrary\obj\Release\FormLibrary.csproj.CopyComplete
+D:\ColorMan-bad\FormLibrary\obj\Release\FormLibrary.dll
+D:\ColorMan-bad\FormLibrary\obj\Release\FormLibrary.pdb

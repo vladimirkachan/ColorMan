@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColorMan.AppForms.CircleView" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAgCAAAkAAAACAAAAigAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\CircleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.WheelView" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACABAAAAAAKAAAACAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\WheelView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.CmykHorizontalView" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUEIBAAACETBBACAASAAAQiAAJALQAAgAgAAAAAAAA=</HashCode>
+      <FileName>AppForms\CmykHorizontalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.CmykVerticalView" Collapsed="true">
+    <Position X="25.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQUAIBAAACATBBACAASAEAAiBAJALQAAgAgAAAAAAAA=</HashCode>
+      <FileName>AppForms\CmykVerticalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.ColorBoxView" Collapsed="true">
+    <Position X="31" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAFAAKAAAAihAABAAAIABEAAAAAAAA=</HashCode>
+      <FileName>AppForms\ColorBoxView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.DialogForm" Collapsed="true">
+    <Position X="45.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OCAGDSqDUKcBMNCCAAGrEmSSktAQZDAslYAQBYABYIw=</HashCode>
+      <FileName>AppForms\DialogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HLHorizontalView" Collapsed="true">
+    <Position X="32" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAgBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HLHorizontalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HLVerticalView" Collapsed="true">
+    <Position X="34.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HLVerticalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HorizontalLinearView" Collapsed="true">
+    <Position X="19.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUEABAAACETFAAAAASAAAQiAAJALQACgAgAAAAAAAA=</HashCode>
+      <FileName>AppForms\HorizontalLinearView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HslCircleView" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HslCircleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HslHorizontalView" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HslHorizontalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HslVerticalView" Collapsed="true">
+    <Position X="43.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HslVerticalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HslWheelView" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAABAAAAAAAAAAAACI=</HashCode>
+      <FileName>AppForms\HslWheelView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HsvCircleView" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HsvCircleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HsvHorizontalView" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HsvHorizontalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HsvVerticalView" Collapsed="true">
+    <Position X="36.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HsvVerticalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HsvWheelTriangleView" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAAAAACAAAACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HsvWheelTriangleView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HsvWheelView" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAABAAAAAAAAAAAACI=</HashCode>
+      <FileName>AppForms\HsvWheelView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HueHorizontalView" Collapsed="true">
+    <Position X="27.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAQgCAABACAABABAABAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HueHorizontalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.HueVerticalView" Collapsed="true">
+    <Position X="29.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAQgCAABACAABABAABAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\HueVerticalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.LabHorizontalView" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\LabHorizontalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.LabSquareView" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAEAAAACEAAACkAAAAAAFAAAAgAAAAAI=</HashCode>
+      <FileName>AppForms\LabSquareView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.LabVerticalView" Collapsed="true">
+    <Position X="41" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\LabVerticalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.RectColorComponentView" Collapsed="true">
+    <Position X="33.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAISAAAAAAEgCEAAACAABkABAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\RectColorComponentView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.RectSlimView" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAACADFAIAEgCIAAACCABAICAAAAACQAAAAAA=</HashCode>
+      <FileName>AppForms\RectSlimView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.RectView" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAABAAACADFBAAEgCIAAACCAJAICAAAADSQAAAAAA=</HashCode>
+      <FileName>AppForms\RectView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.RgbHorizontalView" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\RgbHorizontalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.RgbVerticalView" Collapsed="true">
+    <Position X="38.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppForms\RgbVerticalView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.TextEnterForm" Collapsed="true">
+    <Position X="47.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAgBCACCQxAAKVAgGAAYAzAEIIAEAIkkAAAQAhAAA=</HashCode>
+      <FileName>AppForms\TextEnterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.VerticalLinearView" Collapsed="true">
+    <Position X="40" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQUAABAAACATBBAAAASAEAAiBAJALQAAgAgAAAAAAAA=</HashCode>
+      <FileName>AppForms\VerticalLinearView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorMan.AppForms.View" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAABgSghAoAACQCcAQBCEMIAAAAAAgAIABAABgA=</HashCode>
+      <FileName>AppForms\View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

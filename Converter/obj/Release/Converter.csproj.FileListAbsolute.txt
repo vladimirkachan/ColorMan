@@ -1,0 +1,48 @@
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\Converter\obj\Release\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\Converter\obj\Release\Converter.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\Converter\obj\Release\Converter.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\Converter\bin\Release\Converter.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\Converter\bin\Release\Converter.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\Converter\bin\Release\ExtensionLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\Converter\bin\Release\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\Converter\bin\Release\Converter.dll
+D:\Visual Studio\Project\ColorMan\Converter\bin\Release\Converter.pdb
+D:\Visual Studio\Project\ColorMan\Converter\bin\Release\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\Converter\bin\Release\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\Converter\obj\Release\Converter.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\ColorMan\Converter\obj\Release\Converter.dll
+D:\Visual Studio\Project\ColorMan\Converter\obj\Release\Converter.pdb
+D:\Drives\Google Drive\ColorMan\Converter\bin\Release\Converter.dll
+D:\Drives\Google Drive\ColorMan\Converter\bin\Release\Converter.pdb
+D:\Drives\Google Drive\ColorMan\Converter\bin\Release\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\Converter\bin\Release\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\Converter\obj\Release\Converter.csprojResolveAssemblyReference.cache
+D:\Drives\Google Drive\ColorMan\Converter\obj\Release\Converter.dll
+D:\Drives\Google Drive\ColorMan\Converter\obj\Release\Converter.pdb
+D:\Google Drive\ColorMan\Converter\bin\Release\Converter.dll
+D:\Google Drive\ColorMan\Converter\bin\Release\Converter.pdb
+D:\Google Drive\ColorMan\Converter\bin\Release\ExtensionLibrary.dll
+D:\Google Drive\ColorMan\Converter\bin\Release\ExtensionLibrary.pdb
+D:\Google Drive\ColorMan\Converter\obj\Release\Converter.csprojAssemblyReference.cache
+D:\Google Drive\ColorMan\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+D:\Google Drive\ColorMan\Converter\obj\Release\Converter.csproj.CopyComplete
+D:\Google Drive\ColorMan\Converter\obj\Release\Converter.dll
+D:\Google Drive\ColorMan\Converter\obj\Release\Converter.pdb
+D:\ColorMan\Converter\bin\Release\Converter.dll
+D:\ColorMan\Converter\bin\Release\Converter.pdb
+D:\ColorMan\Converter\bin\Release\ExtensionLibrary.dll
+D:\ColorMan\Converter\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan\Converter\obj\Release\Converter.csprojAssemblyReference.cache
+D:\ColorMan\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+D:\ColorMan\Converter\obj\Release\Converter.csproj.CopyComplete
+D:\ColorMan\Converter\obj\Release\Converter.dll
+D:\ColorMan\Converter\obj\Release\Converter.pdb
+D:\ColorMan-bad\Converter\bin\Release\Converter.dll
+D:\ColorMan-bad\Converter\bin\Release\Converter.pdb
+D:\ColorMan-bad\Converter\bin\Release\ExtensionLibrary.dll
+D:\ColorMan-bad\Converter\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan-bad\Converter\obj\Release\Converter.csprojAssemblyReference.cache
+D:\ColorMan-bad\Converter\obj\Release\Converter.csproj.CoreCompileInputs.cache
+D:\ColorMan-bad\Converter\obj\Release\Converter.csproj.CopyComplete
+D:\ColorMan-bad\Converter\obj\Release\Converter.dll
+D:\ColorMan-bad\Converter\obj\Release\Converter.pdb

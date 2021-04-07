@@ -1,0 +1,389 @@
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ColorMan.exe.config
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ColorMan.exe
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ColorMan.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ColorScreenPicker.exe
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ColorSpaces.dll
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ControlsLibrary.dll
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\FormLibrary.dll
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\Converter.dll
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ColorScreenPicker.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ColorSpaces.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ContractLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ControlsLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\FormLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\Converter.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppControls.WheelSquareColorBox.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.CircleView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.CmykHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.CmykVerticalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.ColorBoxView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.DialogForm.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HLHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HLVerticalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HorizontalLinearView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslCircleView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslVerticalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslWheelView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvCircleView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvVerticalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvWheelTriangleView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvWheelView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HueHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HueVerticalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.LabHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.LabSquareView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.LabVerticalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RectColorComponentView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RectSlimView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RectView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RgbHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RgbVerticalView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.TextEnterForm.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.VerticalLinearView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.View.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.WheelView.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.MainForm.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.Properties.Resources.resources
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.csproj.GenerateResource.Cache
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.exe
+D:\Visual Studio\Project\ColorMan\ColorMan\obj\Release\ColorMan.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\CompactViewer.exe
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\CompactViewer.pdb
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\MultipleViewer.exe
+D:\Visual Studio\Project\ColorMan\ColorMan\bin\Release\MultipleViewer.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ColorMan.exe.config
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.csprojResolveAssemblyReference.cache
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppControls.WheelSquareColorBox.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.CircleView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.CmykHorizontalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.CmykVerticalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.ColorBoxView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.DialogForm.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HLHorizontalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HLVerticalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HorizontalLinearView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslCircleView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslHorizontalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslVerticalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HslWheelView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvCircleView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvHorizontalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvVerticalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvWheelTriangleView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HsvWheelView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HueHorizontalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.HueVerticalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.LabHorizontalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.LabSquareView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.LabVerticalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RectColorComponentView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RectSlimView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RectView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RgbHorizontalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.RgbVerticalView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.TextEnterForm.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.VerticalLinearView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.View.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.AppForms.WheelView.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.MainForm.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.Properties.Resources.resources
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.csproj.GenerateResource.Cache
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ColorMan.exe
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ColorMan.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ColorScreenPicker.exe
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ColorSpaces.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\CompactViewer.exe
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ContractLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ControlsLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ExtensionLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\FormLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\MultipleViewer.exe
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\Converter.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ColorScreenPicker.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ColorSpaces.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\CompactViewer.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ContractLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ControlsLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\ExtensionLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\FormLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\MultipleViewer.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\bin\Release\Converter.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ColorMan\obj\Release\ColorMan.exe
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ColorMan.exe.config
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ColorMan.exe
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ColorMan.pdb
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ColorSpaces.dll
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ContractLibrary.dll
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ControlsLibrary.dll
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\FormLibrary.dll
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\Converter.dll
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ColorSpaces.pdb
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ContractLibrary.pdb
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ControlsLibrary.pdb
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\FormLibrary.pdb
+D:\Visual Studio\Project\ColorMan\MainApplication\bin\Release\Converter.pdb
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppControls.WheelSquareColorBox.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CircleView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykVerticalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.ColorBoxView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.DialogForm.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLVerticalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HorizontalLinearView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslCircleView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslVerticalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslWheelView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvCircleView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvVerticalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelTriangleView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueVerticalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabSquareView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabVerticalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectColorComponentView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectSlimView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbHorizontalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbVerticalView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.TextEnterForm.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.VerticalLinearView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.View.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.WheelView.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.MainForm.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.Properties.Resources.resources
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.csproj.GenerateResource.Cache
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.exe
+D:\Visual Studio\Project\ColorMan\MainApplication\obj\Release\ColorMan.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ColorMan.exe.config
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.exe
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ColorMan.exe
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ColorMan.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ColorSpaces.dll
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ContractLibrary.dll
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ControlsLibrary.dll
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\FormLibrary.dll
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\Converter.dll
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ColorSpaces.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ContractLibrary.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ControlsLibrary.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\FormLibrary.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\bin\Release\Converter.pdb
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.csprojResolveAssemblyReference.cache
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppControls.WheelSquareColorBox.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CircleView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykHorizontalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykVerticalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.ColorBoxView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.DialogForm.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLHorizontalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLVerticalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HorizontalLinearView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslCircleView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslHorizontalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslVerticalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslWheelView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvCircleView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvHorizontalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvVerticalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelTriangleView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueHorizontalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueVerticalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabHorizontalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabSquareView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabVerticalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectColorComponentView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectSlimView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbHorizontalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbVerticalView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.TextEnterForm.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.VerticalLinearView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.View.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.WheelView.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.MainForm.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.Properties.Resources.resources
+D:\Drives\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.csproj.GenerateResource.Cache
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ColorMan.exe.config
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ColorMan.exe
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ColorMan.pdb
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ColorSpaces.dll
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ContractLibrary.dll
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ControlsLibrary.dll
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ExtensionLibrary.dll
+D:\Google Drive\ColorMan\MainApplication\bin\Release\FormLibrary.dll
+D:\Google Drive\ColorMan\MainApplication\bin\Release\Converter.dll
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ColorSpaces.pdb
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ContractLibrary.pdb
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ControlsLibrary.pdb
+D:\Google Drive\ColorMan\MainApplication\bin\Release\ExtensionLibrary.pdb
+D:\Google Drive\ColorMan\MainApplication\bin\Release\FormLibrary.pdb
+D:\Google Drive\ColorMan\MainApplication\bin\Release\Converter.pdb
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppControls.WheelSquareColorBox.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CircleView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykHorizontalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykVerticalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.ColorBoxView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.DialogForm.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLHorizontalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLVerticalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HorizontalLinearView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslCircleView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslHorizontalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslVerticalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslWheelView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvCircleView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvHorizontalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvVerticalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelTriangleView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueHorizontalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueVerticalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabHorizontalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabSquareView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabVerticalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectColorComponentView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectSlimView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbHorizontalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbVerticalView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.TextEnterForm.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.VerticalLinearView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.View.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.WheelView.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.MainForm.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.Properties.Resources.resources
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.csproj.GenerateResource.cache
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.csproj.CoreCompileInputs.cache
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.csproj.CopyComplete
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.exe
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.pdb
+D:\Google Drive\ColorMan\MainApplication\obj\Release\ColorMan.csprojAssemblyReference.cache
+D:\ColorMan\MainApplication\bin\Release\ColorMan.exe.config
+D:\ColorMan\MainApplication\bin\Release\ColorMan.exe
+D:\ColorMan\MainApplication\bin\Release\ColorMan.pdb
+D:\ColorMan\MainApplication\bin\Release\ColorSpaces.dll
+D:\ColorMan\MainApplication\bin\Release\ContractLibrary.dll
+D:\ColorMan\MainApplication\bin\Release\ControlsLibrary.dll
+D:\ColorMan\MainApplication\bin\Release\ExtensionLibrary.dll
+D:\ColorMan\MainApplication\bin\Release\FormLibrary.dll
+D:\ColorMan\MainApplication\bin\Release\Converter.dll
+D:\ColorMan\MainApplication\bin\Release\ColorSpaces.pdb
+D:\ColorMan\MainApplication\bin\Release\ContractLibrary.pdb
+D:\ColorMan\MainApplication\bin\Release\ControlsLibrary.pdb
+D:\ColorMan\MainApplication\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan\MainApplication\bin\Release\FormLibrary.pdb
+D:\ColorMan\MainApplication\bin\Release\Converter.pdb
+D:\ColorMan\MainApplication\obj\Release\ColorMan.csprojAssemblyReference.cache
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppControls.WheelSquareColorBox.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CircleView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykHorizontalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.CmykVerticalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.ColorBoxView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.DialogForm.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLHorizontalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HLVerticalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HorizontalLinearView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslCircleView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslHorizontalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslVerticalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HslWheelView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvCircleView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvHorizontalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvVerticalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelTriangleView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueHorizontalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.HueVerticalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabHorizontalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabSquareView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.LabVerticalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectColorComponentView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectSlimView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RectView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbHorizontalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.RgbVerticalView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.TextEnterForm.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.VerticalLinearView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.View.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.AppForms.WheelView.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.MainForm.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.Properties.Resources.resources
+D:\ColorMan\MainApplication\obj\Release\ColorMan.csproj.GenerateResource.cache
+D:\ColorMan\MainApplication\obj\Release\ColorMan.csproj.CoreCompileInputs.cache
+D:\ColorMan\MainApplication\obj\Release\ColorMan.csproj.CopyComplete
+D:\ColorMan\MainApplication\obj\Release\ColorMan.exe
+D:\ColorMan\MainApplication\obj\Release\ColorMan.pdb
+D:\ColorMan-bad\MainApplication\bin\Release\ColorMan.exe.config
+D:\ColorMan-bad\MainApplication\bin\Release\ColorMan.exe
+D:\ColorMan-bad\MainApplication\bin\Release\ColorMan.pdb
+D:\ColorMan-bad\MainApplication\bin\Release\ColorSpaces.dll
+D:\ColorMan-bad\MainApplication\bin\Release\ContractLibrary.dll
+D:\ColorMan-bad\MainApplication\bin\Release\ControlsLibrary.dll
+D:\ColorMan-bad\MainApplication\bin\Release\ExtensionLibrary.dll
+D:\ColorMan-bad\MainApplication\bin\Release\FormLibrary.dll
+D:\ColorMan-bad\MainApplication\bin\Release\Converter.dll
+D:\ColorMan-bad\MainApplication\bin\Release\ColorSpaces.pdb
+D:\ColorMan-bad\MainApplication\bin\Release\ContractLibrary.pdb
+D:\ColorMan-bad\MainApplication\bin\Release\ControlsLibrary.pdb
+D:\ColorMan-bad\MainApplication\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan-bad\MainApplication\bin\Release\FormLibrary.pdb
+D:\ColorMan-bad\MainApplication\bin\Release\Converter.pdb
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.csprojAssemblyReference.cache
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppControls.WheelSquareColorBox.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.CircleView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.CmykHorizontalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.CmykVerticalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.ColorBoxView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.DialogForm.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HLHorizontalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HLVerticalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HorizontalLinearView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HslCircleView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HslHorizontalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HslVerticalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HslWheelView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HsvCircleView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HsvHorizontalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HsvVerticalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelTriangleView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HsvWheelView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HueHorizontalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.HueVerticalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.LabHorizontalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.LabSquareView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.LabVerticalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.RectColorComponentView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.RectSlimView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.RectView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.RgbHorizontalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.RgbVerticalView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.TextEnterForm.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.VerticalLinearView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.View.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.AppForms.WheelView.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.MainForm.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.Properties.Resources.resources
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.csproj.GenerateResource.cache
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.csproj.CoreCompileInputs.cache
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.csproj.CopyComplete
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.exe
+D:\ColorMan-bad\MainApplication\obj\Release\ColorMan.pdb

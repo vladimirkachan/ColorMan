@@ -1,0 +1,30 @@
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.pdb
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.dll
+C:\Users\Victor Hulcko\Desktop\ColorMan-2015-12-27\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.csprojResolveAssemblyReference.cache
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.pdb
+D:\Google Drive\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.dll
+D:\Google Drive\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.pdb
+D:\Google Drive\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.csproj.CoreCompileInputs.cache
+D:\Google Drive\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.dll
+D:\Google Drive\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.pdb
+D:\Google Drive\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.csprojAssemblyReference.cache
+D:\ColorMan-bad\ExtensionLibrary\bin\Release\ExtensionLibrary.dll
+D:\ColorMan-bad\ExtensionLibrary\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan-bad\ExtensionLibrary\obj\Release\ExtensionLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan-bad\ExtensionLibrary\obj\Release\ExtensionLibrary.dll
+D:\ColorMan-bad\ExtensionLibrary\obj\Release\ExtensionLibrary.pdb
+D:\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.dll
+D:\ColorMan\ExtensionLibrary\bin\Release\ExtensionLibrary.pdb
+D:\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.csprojAssemblyReference.cache
+D:\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.dll
+D:\ColorMan\ExtensionLibrary\obj\Release\ExtensionLibrary.pdb

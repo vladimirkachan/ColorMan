@@ -1,0 +1,14 @@
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\bin\Debug\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\bin\Debug\ExtensionLibrary.pdb
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.dll
+D:\Visual Studio\Project\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\bin\Debug\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\bin\Debug\ExtensionLibrary.pdb
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.dll
+D:\Drives\Google Drive\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.pdb
+D:\ColorMan\ExtensionLibrary\bin\Debug\ExtensionLibrary.dll
+D:\ColorMan\ExtensionLibrary\bin\Debug\ExtensionLibrary.pdb
+D:\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.csprojAssemblyReference.cache
+D:\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.csproj.CoreCompileInputs.cache
+D:\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.dll
+D:\ColorMan\ExtensionLibrary\obj\Debug\ExtensionLibrary.pdb
