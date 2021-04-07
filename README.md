@@ -1,1 +1,1 @@
-# ColorMan
+# ColorMan v1.0
